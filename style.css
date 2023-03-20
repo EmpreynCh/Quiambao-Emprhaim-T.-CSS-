@@ -1,3 +1,7 @@
+@font-face {
+    font-family: Gasalt-Black;
+    src: url(font/Gasalt-Black.ttf);
+}
 body{
     background-color: lightgray;
     margin: 200px;
